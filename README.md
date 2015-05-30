@@ -9,7 +9,7 @@ N6 = Nexus 6 =   shamu  = Android 5.1.1_r4
 
 	$ mkdir ~/fhemaosp
 	$ cd ~/fhemaosp
-	$ repo init -u https://github.com/fhemaosp/platform_manifest -b maaster
+	$ repo init -u https://github.com/fhemaosp/platform_manifest -b master
 	$ repo sync
 	
 # Build It
