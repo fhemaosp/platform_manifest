@@ -3,7 +3,7 @@
 
 # Latest AOSP Update
 
-N6 = Nexus 6 =   shamu  = Android 5.1.1_r8
+N6 = Nexus 6 =   shamu  = Android 5.1.1_r9
 
 # Get fhemaosp Source
 
