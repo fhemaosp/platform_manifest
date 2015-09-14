@@ -3,13 +3,13 @@
 
 # Latest AOSP Update
 
-N6 = Nexus 6 =   shamu  = Android 5.1.1_r9
+N6 = Nexus 6 =   shamu  = Android 5.1.1_r14
 
 # Get fhemaosp Source
 
 	$ mkdir ~/fhemaosp
 	$ cd ~/fhemaosp
-	$ repo init -u https://github.com/fhemaosp/platform_manifest -b master
+	$ repo init -u https://github.com/fhemaosp/platform_manifest -b r14
 	$ repo sync
 	
 # Build It
